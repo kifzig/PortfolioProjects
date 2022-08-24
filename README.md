@@ -21,4 +21,4 @@ everything that I can about Data Analytics.
 
 [Rock Paper Scissors with Graphical User Interface](https://github.com/kifzig/rock-paper-scissors) - This is a game that I decided to make on my own as part of my Nucamp portfolio.
 
-
+[Rental Tracker](https://github.com/kifzig/aws_rental) - This was my first time putting together a small website using Flask, HTML, and PostgreSQL. I containerized it using Docker and then deployed it to Amazon Web Services where I connected it to a new database on Amazon RDS, created an image using Amazon Elastic Container Registry, and ran it on Elastic Container Service.
