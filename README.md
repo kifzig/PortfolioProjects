@@ -32,7 +32,7 @@ I'm a former teacher learning everything that I can about Data Analytics and Sof
 ## Software Engineering Projects
 [Sample Blog using Flask, Bootstrap, and Python](https://github.com/kifzig/day59_python_blog_bootstrap_flask) - This is not deployed.
 
-[Around the U.S.](https://github.com/kifzig/se_project_aroundtheus) - This project uses HTML, CSS, and Javascript to load images and display them dynamically in a grid.
+[Around the U.S.](https://github.com/kifzig/se_project_aroundtheus) - This project uses HTML, CSS, and Javascript to load images and display them dynamically in a grid. [View deployed project](https://kifzig.github.io/se_project_aroundtheus/)
 
 [Practicum Coffee Shop](https://kifzig.github.io/se_project_coffeeshop/) - This is an HTML and CSS project that utilizes flexbox.
 
